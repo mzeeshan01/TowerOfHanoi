@@ -1,0 +1,2 @@
+# TowerOfHanoi
+Human behavior is recorded in form of EEG signals while playing Tower of Hanoi (ToH) game. The EEG signals were captured from left and right frontal, central, anterior temporal and parietal regions (F3, F4, C3, C4,T3,T4, P3, P4 positions according to the 10-20 system and referenced to Cz. Two different files S01_TOH_5B.bdf and S01_TOH_4A.bdf means subject 1 was played 5 disc (TOH)  and after that he was palyed 4 disc (TOH).
